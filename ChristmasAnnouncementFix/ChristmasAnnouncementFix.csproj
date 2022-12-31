@@ -34,7 +34,9 @@
     </PropertyGroup>
     <ItemGroup>
         <Compile Include="AnnouncementPatch.cs" />
+        <Compile Include="CafConfig.cs" />
         <Compile Include="CafPlugin.cs" />
+        <Compile Include="HolidayPatch.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
